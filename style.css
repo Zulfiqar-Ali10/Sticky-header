@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+p{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.stickyheader{
+    width: 50%;
+    background-color: orange;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px 0;
+}
+.sticky{
+    width: 100%;
+    background-color: orangered;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
